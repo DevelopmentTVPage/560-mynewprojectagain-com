@@ -10,6 +10,6 @@
     "type": "inline",
     "title": "My Widget",
     "name": "my-widget",
-    "channelId": "117404171",
+    "channelId": "117404169",
     "layout": "bootstrap"
 }
