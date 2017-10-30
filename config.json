@@ -1,6 +1,6 @@
 {
     "title": "New Project",
-    "baseURL": "https:\/\/mynewprojectagain.com\/test",
+    "baseURL": "https:\/\/mynewprojectagain.com",
     "languageCode": "en-us",
     "theme": "tvpage",
     "disablePathToLower": true,
@@ -8,7 +8,7 @@
     "galleryChannelIds": null,
     "params": {
         "loginId": "1758991",
-        "subfolder": "\/test",
+        "subfolder": "",
         "firstpartycookies": true,
         "cookiedomain": "mynewprojectagain.com"
     }
