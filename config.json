@@ -8,9 +8,9 @@
     "galleryChannelIds": null,
     "params": {
         "loginId": "1758991",
-        "subfolder": "",
+        "subfolder": "\/test",
         "firstpartycookies": true,
         "cookiedomain": "mynewprojectagain.com"
     },
-    "baseUrl": "https:\/\/mynewprojectagain.com"
+    "baseUrl": "https:\/\/mynewprojectagain.com\/test"
 }
