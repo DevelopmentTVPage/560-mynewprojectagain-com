@@ -11,5 +11,6 @@
         "subfolder": "\/again",
         "firstpartycookies": true,
         "cookiedomain": "mynewprojectagain.com"
-    }
+    },
+    "subfolder": "again"
 }
