@@ -1,6 +1,6 @@
 {
     "title": "New Project",
-    "baseURL": "https:\/\/mynewprojectagain.com\/working_again",
+    "baseURL": "https:\/\/mynewprojectagain.com\/\/working",
     "languageCode": "en-us",
     "theme": "tvpage",
     "disablePathToLower": true,
@@ -8,7 +8,7 @@
     "galleryChannelIds": null,
     "params": {
         "loginId": "1758991",
-        "subfolder": "\/working-again",
+        "subfolder": "\/\/working",
         "firstpartycookies": true,
         "cookiedomain": "mynewprojectagain.com"
     }
